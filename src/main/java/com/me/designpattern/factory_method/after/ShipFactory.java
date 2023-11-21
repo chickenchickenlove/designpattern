@@ -1,5 +1,11 @@
 package com.me.designpattern.factory_method.after;
 
+/**
+ * Default 메서드를 이용해 Template을 짜둠.
+ * 특정 부분은 interface를 이용하도록 함.
+ * 팩토리 메서드 패턴에 Template 메서드 패턴을 추가한 듯함.
+ */
+
 public interface ShipFactory {
 
     Ship createShip(String name);
