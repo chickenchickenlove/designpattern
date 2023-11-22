@@ -27,8 +27,4 @@ public class 정복자아리 implements Champion {
         System.out.println("정복자 아리 R");
     }
 
-    @Override
-    public String getName() {
-        return null;
-    }
 }
