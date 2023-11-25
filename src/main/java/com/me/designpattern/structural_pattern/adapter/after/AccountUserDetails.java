@@ -1,6 +1,6 @@
-package com.me.designpattern.adapter.after;
+package com.me.designpattern.structural_pattern.adapter.after;
 
-import com.me.designpattern.adapter.after.security.UserDetails;
+import com.me.designpattern.structural_pattern.adapter.after.security.UserDetails;
 
 public class AccountUserDetails implements UserDetails {
 

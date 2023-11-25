@@ -1,6 +1,6 @@
-package com.me.designpattern.adapter.after;
+package com.me.designpattern.structural_pattern.adapter.after;
 
-import com.me.designpattern.adapter.after.security.LoginHandler;
+import com.me.designpattern.structural_pattern.adapter.after.security.LoginHandler;
 
 public class App {
 

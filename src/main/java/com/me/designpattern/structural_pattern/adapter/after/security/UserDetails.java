@@ -1,4 +1,4 @@
-package com.me.designpattern.adapter.before.security;
+package com.me.designpattern.structural_pattern.adapter.after.security;
 
 public interface UserDetails {
 

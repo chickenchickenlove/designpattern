@@ -1,8 +1,7 @@
-package com.me.designpattern.adapter.after_no_adapter;
+package com.me.designpattern.structural_pattern.adapter.after;
 
-import com.me.designpattern.adapter.after_no_adapter.security.UserDetails;
-
-public class Account implements UserDetails {
+// 내 로컬에 있는 코드지만, 수정할 수 없는 경우
+public class Account {
 
     private String name;
 
@@ -16,11 +15,6 @@ public class Account implements UserDetails {
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    @Override
-    public String getUsername() {
-        return this.name;
     }
 
     public String getPassword() {

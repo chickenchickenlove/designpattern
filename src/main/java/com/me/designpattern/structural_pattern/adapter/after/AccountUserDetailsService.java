@@ -1,7 +1,7 @@
-package com.me.designpattern.adapter.after;
+package com.me.designpattern.structural_pattern.adapter.after;
 
-import com.me.designpattern.adapter.after.security.UserDetails;
-import com.me.designpattern.adapter.after.security.UserDetailsService;
+import com.me.designpattern.structural_pattern.adapter.after.security.UserDetails;
+import com.me.designpattern.structural_pattern.adapter.after.security.UserDetailsService;
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor

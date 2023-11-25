@@ -1,4 +1,4 @@
-package com.me.designpattern.adapter.after_no_adapter.security;
+package com.me.designpattern.structural_pattern.adapter.before.security;
 
 public class LoginHandler {
 

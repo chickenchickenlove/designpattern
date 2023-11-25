@@ -1,7 +1,7 @@
-package com.me.designpattern.adapter.after_no_adapter;
+package com.me.designpattern.structural_pattern.adapter.after_no_adapter;
 
-import com.me.designpattern.adapter.after_no_adapter.security.UserDetails;
-import com.me.designpattern.adapter.after_no_adapter.security.UserDetailsService;
+import com.me.designpattern.structural_pattern.adapter.after_no_adapter.security.UserDetails;
+import com.me.designpattern.structural_pattern.adapter.after_no_adapter.security.UserDetailsService;
 
 public class AccountService implements UserDetailsService {
 

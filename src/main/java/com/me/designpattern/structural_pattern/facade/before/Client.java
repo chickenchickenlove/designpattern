@@ -1,4 +1,4 @@
-package com.me.designpattern.facade.before;
+package com.me.designpattern.structural_pattern.facade.before;
 
 import javax.mail.Message;
 import javax.mail.MessagingException;

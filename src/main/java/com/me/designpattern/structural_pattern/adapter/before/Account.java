@@ -1,4 +1,4 @@
-package com.me.designpattern.adapter.before;
+package com.me.designpattern.structural_pattern.adapter.before;
 
 public class Account {
 
