@@ -1,5 +1,6 @@
 package com.me.designpattern.factory_method.before;
 
+// Test
 public class Client {
 
     public static void main(String[] args) {
