@@ -32,6 +32,4 @@ public class Game implements Serializable {
         this.blueTeamScore = gameSave.getBlueTeamScore();
         this.redTeamScore = gameSave.getRedTeamScore();
     }
-
-
 }
