@@ -13,7 +13,6 @@ public class GameServiceProxy implements GameService {
     public void startGame() {
         long start = System.currentTimeMillis();
         gameService.startGame();
-        // super.startGame();
         System.out.println("걸린 시간 = " + (System.currentTimeMillis() - start));
     }
 
