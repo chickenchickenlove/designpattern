@@ -6,9 +6,9 @@ import java.io.IOException;
 
 public class FileProcessor {
     private String path;
-    private final ProcessorFunction function;
+    private final Operator function;
 
-    public FileProcessor(String path, ProcessorFunction function) {
+    public FileProcessor(String path, Operator function) {
         this.path = path;
         this.function = function;
     }
